@@ -1,0 +1,2 @@
+# insert the name of the .py file to start the server using the APIs on it
+uvicorn $1:app --reload
